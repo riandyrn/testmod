@@ -2,7 +2,7 @@ package testmod
 
 import "fmt"
 
-// Print prints String "Hello, World!"
+// Print prints String "Hello, Riandy!"
 func Print() {
-	fmt.Println("Hello, World!")
+	fmt.Println("Hello, Riandy!")
 }
